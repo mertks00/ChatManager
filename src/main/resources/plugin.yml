@@ -1,0 +1,7 @@
+name: ChatManager
+version: '${project.version}'
+main: me.chatmanager.chatmanager.ChatManager
+api-version: 1.16
+commands:
+  cc:
+
