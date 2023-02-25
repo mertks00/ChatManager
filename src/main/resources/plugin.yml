@@ -1,0 +1,9 @@
+name: ChatManager
+version: '${project.version}'
+main: me.oyuncozucu.chatmanager.ChatManager
+api-version: 1.16
+commands:
+  sohbet:
+
+
+
